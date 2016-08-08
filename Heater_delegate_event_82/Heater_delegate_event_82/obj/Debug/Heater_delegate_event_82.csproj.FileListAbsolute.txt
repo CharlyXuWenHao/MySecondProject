@@ -1,0 +1,6 @@
+C:\Users\yqj\Desktop\C#工程\Heater_delegate_event_82\Heater_delegate_event_82\bin\Debug\Heater_delegate_event_82.exe.config
+C:\Users\yqj\Desktop\C#工程\Heater_delegate_event_82\Heater_delegate_event_82\bin\Debug\Heater_delegate_event_82.exe
+C:\Users\yqj\Desktop\C#工程\Heater_delegate_event_82\Heater_delegate_event_82\bin\Debug\Heater_delegate_event_82.pdb
+C:\Users\yqj\Desktop\C#工程\Heater_delegate_event_82\Heater_delegate_event_82\obj\Debug\Heater_delegate_event_82.csprojResolveAssemblyReference.cache
+C:\Users\yqj\Desktop\C#工程\Heater_delegate_event_82\Heater_delegate_event_82\obj\Debug\Heater_delegate_event_82.exe
+C:\Users\yqj\Desktop\C#工程\Heater_delegate_event_82\Heater_delegate_event_82\obj\Debug\Heater_delegate_event_82.pdb
